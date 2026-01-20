@@ -9,6 +9,6 @@ python exe_physio.py --testmissingratio [missing ratio] --nsample [number of sam
 ```
 
 ### training and imputation for the healthcare dataset
-```shell
+```bash
 python exe_pm25.py --nsample [number of samples]
 ```
